@@ -1,5 +1,4 @@
-import streamlit as st, pandas as pd, plotly.express as px, plotly.graph_objects as go
-from pathlib import Path
+pip install -r requirements.txt
 
 st.set_page_config(page_title="Ice‑Hockey Battery Dashboard", layout="wide")
 st.title("San Diego Hockey Club Performance Testing")
