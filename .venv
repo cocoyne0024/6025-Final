@@ -1,0 +1,5 @@
+python3 -m venv .venv          # create a folder named .venv
+source .venv/bin/activate      # activate it
+
+pip install --upgrade pip      # ensure pip is up-to-date
+pip install -r requirements.txt
